@@ -6,7 +6,7 @@
 
 📍 **Location:** Dhaka, Bangladesh  
 📧 **Email:** alamiin345@gmail.com  
-📱 **Phone:** +8801859504094 
+📱 **Phone:** +8801859504094  
 🌐 **medium:** [alamiin345](https://medium.com/@alamiin345)  
 
 ## About Me
