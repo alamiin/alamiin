@@ -6,17 +6,13 @@
 
 📍 **Location:** Dhaka, Bangladesh  
 📧 **Email:** alamiin345@gmail.com  
-📱 **Phone:** +8801859504094  
-🔗 **LinkedIn:** [alamiin345](https://www.linkedin.com/in/alamiin345/)  
+📱 **Phone:** +8801859504094 
 🌐 **medium:** [alamiin345](https://medium.com/@alamiin345)  
-
----
 
 ## About Me
 
 I am an experienced **Mobile App Developer** with 6+ years of professional experience in **Android**, **Flutter**, and **Kotlin Multiplatform**.  
 
----
 
 ## 🛠 Technical Skills
 
@@ -29,5 +25,3 @@ I am an experienced **Mobile App Developer** with 6+ years of professional exper
 - **Networking:** Retrofit, OkHttp, REST APIs, ktor
 - **Version Control:** Git, GitHub  
 - **Remote Collaboration Tools:** Jira, Time Doctor, Google Workspace  
-
----
